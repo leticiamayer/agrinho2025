@@ -1,13 +1,13 @@
-Agrinho 2025 - Festejando a Conexão Campo-Cidade  
+**Agrinho 2025 - Festejando a Conexão Campo-Cidade**
 
-Descrição - A Magia da Festa Junina.
+**Descrição - A Magia da Festa Junina.**
 
 Este projeto foi desenvolvido para o concurso Agrinho, com o tema "Festejando a Conexão Campo Cidade". Com o  O objetivo é celebrar a cultura das festas juninas, trazendo informações sobre sua história, comidas típicas e convidar as pessoas a participarem de uma celebração especial que é a
 famosa quadrilha.
 
 Projeto desenvolvido pela aluna Letícia Mayer, estudante do Colégio Estadual Duque de Caxias, cursando o 3° B do Ensino Médio, sob orientação do Professor Ivan Gabriel Huk Vachack.
 
-Funcionalidades
+**Funcionalidades**
 
 - História da Festa Junina: Apresenta um panorama completo sobre a origem e os elementos culturais que compõem essa tradicional festa brasileira.
 
@@ -15,10 +15,13 @@ Funcionalidades
 
 - Convite para Participação: Ao final, há um convite para os visitantes se inscreverem e participarem da festa, promovendo a interação e o engajamento com a comunidade.
 
-Tecnologias Usadas
+**Tecnologias Usadas**
 
 HTML: Para a estruturação do conteúdo.
 
 CSS: Para o estilo e layout do site.
 
+**Contato**
+
+Para mais informações entre em contato pelo e-mail: mayer.leticia@escola.pr.gov.br
 
