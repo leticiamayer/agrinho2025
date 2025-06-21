@@ -1,6 +1,6 @@
 Agrinho 2025 - Festejando a Conexão Campo-Cidade  
 
-Descrição - A Magia da Festa Junina
+Descrição - A Magia da Festa Junina.
 Este projeto foi desenvolvido para o concurso Agrinho, com o tema "Festejando a Conexão Campo Cidade". Com o  O objetivo é celebrar a cultura das festas juninas, trazendo informações sobre sua história, comidas típicas e convidar as pessoas a participarem de uma celebração especial que é a
 famosa quadrilha.
 
